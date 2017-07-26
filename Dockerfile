@@ -8,4 +8,5 @@ RUN yum update -y &&\
     figlet \
     git-core \
     mc \
-    wget
+    wget \
+    vim
