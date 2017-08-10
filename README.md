@@ -2,15 +2,15 @@
 
 > Docker centos image to use for development, testing and deployment.
 
-| Docker base image | Docker image            | Tag               | Size   |
-| ----------------- | ----------------------- | ----------------- | ------ |
-| [centos][1]       | [centos-development][2] | [latest][3]       | ![][4] |
+| Docker base image | Docker image            | Tag               | Size   | Pulls  |
+| ----------------- | ----------------------- | ----------------- | ------ | ------ |
+| [centos][1]       | [centos-development][2] | [latest][3]       | ![][4] | ![][5] |
 
 [1]: https://hub.docker.com/_/centos/
 [2]: https://hub.docker.com/r/vergissberlin/centos-development/
 [3]: https://hub.docker.com/r/vergissberlin/centos-development/tags/
 [4]: https://images.microbadger.com/badges/image/vergissberlin/centos-development.svg
-
+[5]: https://img.shields.io/docker/pulls/vergissberlin/centos-development.svg
 
 ## Promise
 
