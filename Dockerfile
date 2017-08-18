@@ -6,6 +6,7 @@ RUN yum update -y &&\
     bats \
     curl \
     figlet \
+    findutils \
     git-core \
     make \
     mc \
