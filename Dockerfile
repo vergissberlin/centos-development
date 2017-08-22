@@ -7,6 +7,8 @@ RUN yum update -y &&\
     curl \
     figlet \
     git-core \
+    make \
     mc \
+    siege \
     wget \
     vim
