@@ -7,7 +7,7 @@ RUN yum update -y &&\
     curl \
     figlet \
     findutils \
-    git-core \
+    git \
     make \
     mc \
     siege \
